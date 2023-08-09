@@ -1,0 +1,34 @@
+.mystyle {
+    
+    background-color: coral;
+    color: white;
+    font-size: 25px;
+  }
+
+  .item{
+    height: 80vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    width: 100%;    
+  }
+  .item2{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center ;
+  }
+
+  .mydiv{
+    display: flex;
+    height: 80vh;
+    width: 100%;
+  }
+
+  .fontSize{
+    font-size: 30px;
+  }
+
+  .img2{
+    background-image: url("./img/index.jpg");
+  }
